@@ -196,7 +196,12 @@ Nos primeiros 20–30 vídeos: rotação equilibrada (3–4 por tema). Depois, p
 ### Logo
 Envelope antigo com selo de cera em formato de coração + raminho de rosa, em sépia e dourado. Versão simplificada (só o selo) para o ícone do canal.
 
-**Ícone final — ✅ APROVADO (09/11/2026):** gerado na Higgsfield (GPT Image 2.6, 2048×2048), a partir da versão 2 do rascunho.
+**Ícone final — ✅ VERSÃO VERMELHA A (09/11/2026):** rosas e selo em vermelho carmesim forte.
+- Job: `38db1572-39e4-46ba-b944-c630c4d2c6ff` (1024×1024 — suficiente para o ícone de 800×800 do YouTube)
+- Arquivo: https://d8j0ntlcm91z4.cloudfront.net/user_3JQCUjzYuU2cipeDySVvAQsF7zz/hf_20261109_104954_38db1572-39e4-46ba-b944-c630c4d2c6ff.png
+- Pendente (opcional): versão 2048×2048 — a Higgsfield bloqueou por limite diário do período de carência da conta.
+
+**Versão anterior (rosa antigo), substituída:** gerado na Higgsfield (GPT Image 2.6, 2048×2048), a partir da versão 2 do rascunho.
 - Job: `c1d98cab-8ad9-4575-b538-dcbb42243510`
 - Arquivo: https://d8j0ntlcm91z4.cloudfront.net/user_3JQCUjzYuU2cipeDySVvAQsF7zz/hf_20261109_104629_c1d98cab-8ad9-4575-b538-dcbb42243510.png
 - Prompt base (rascunho aprovado): *Elegant circular channel icon emblem: a vintage cream envelope sealed with a heart-shaped dusty-rose red wax seal, a small sprig of dusty pink roses and a faded gold ribbon tucked behind it, warm sepia and faded gold tones on an aged cream paper background, soft nostalgic golden-hour lighting, minimalist, centered composition with generous margin so it reads well when cropped to a circle, painterly vintage illustration style, high detail, no text, no letters*
