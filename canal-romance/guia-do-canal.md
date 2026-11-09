@@ -196,6 +196,11 @@ Nos primeiros 20–30 vídeos: rotação equilibrada (3–4 por tema). Depois, p
 ### Logo
 Envelope antigo com selo de cera em formato de coração + raminho de rosa, em sépia e dourado. Versão simplificada (só o selo) para o ícone do canal.
 
+**Ícone final — ✅ APROVADO (09/11/2026):** gerado na Higgsfield (GPT Image 2.6, 2048×2048), a partir da versão 2 do rascunho.
+- Job: `c1d98cab-8ad9-4575-b538-dcbb42243510`
+- Arquivo: https://d8j0ntlcm91z4.cloudfront.net/user_3JQCUjzYuU2cipeDySVvAQsF7zz/hf_20261109_104629_c1d98cab-8ad9-4575-b538-dcbb42243510.png
+- Prompt base (rascunho aprovado): *Elegant circular channel icon emblem: a vintage cream envelope sealed with a heart-shaped dusty-rose red wax seal, a small sprig of dusty pink roses and a faded gold ribbon tucked behind it, warm sepia and faded gold tones on an aged cream paper background, soft nostalgic golden-hour lighting, minimalist, centered composition with generous margin so it reads well when cropped to a circle, painterly vintage illustration style, high detail, no text, no letters*
+
 ### Thumbnail padrão
 - Esquerda: rosto do narrador idoso em close (emoção: saudade/lágrima contida).
 - Direita: casal jovem da época em tom sépia (o "passado").
