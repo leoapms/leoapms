@@ -63,19 +63,21 @@ Marcar no roteiro os pontos de anúncio (pausas entre capítulos) e entregar cap
 
 ---
 
-## 4. Narradores (personas fixas)
+## 4. Protagonistas e vozes — ✅ DEFINIDO
 
-| Narrador | Perfil | Enredos |
-|---|---|---|
-| **Grandma Rose** (78) | Doce, nostálgica, sotaque leve do sul dos EUA | Maid & Heir, Summer Love, Second Chance |
-| **Grandpa Walter** (82) | Grave, pausado, contador de histórias da varanda | Cowboy, Love in Wartime |
-| **Margaret** (74) | Elegante, mais séria e emotiva | Forbidden by Family, Hidden Millionaire |
-| **Earl** (80, opcional) | Rústico, bem-humorado | Cowboy, Summer Love |
+**Sem narradores fixos com nome.** Cada história tem o seu próprio protagonista idoso, com nome, idade, passado e personagens únicos (ex.: Evelyn, a ex-empregada da mansão; Henry, o ex-peão do rancho; Dorothy, que esperou o soldado). Nada de repetir o mesmo personagem em várias histórias.
 
-- A voz segue o ponto de vista da história (ela conta → voz feminina; ele conta → voz masculina).
-- Começar com 2 vozes (Rose + Walter); adicionar outras só após ver dados de retenção.
-- Mesma persona = mesma voz sempre. Voz de alta qualidade (ElevenLabs ou similar), sem som robótico.
-- Obs.: existe um canal pequeno de receitas chamado "Grandma Rose" (com "Walter"). Se quiser evitar qualquer confusão, trocar Rose por **Grandma June**.
+- Não repetir nomes de protagonistas nem de pares românticos entre vídeos (manter uma lista dos nomes já usados).
+- Quem narra é o protagonista daquela história, em primeira pessoa.
+
+**O que dá identidade ao canal:**
+- **Vozes fixas:** 1 voz feminina idosa e 1 voz masculina idosa, sempre as mesmas (alta qualidade, sem som robótico). A voz segue o ponto de vista da história (ela conta → voz feminina; ele conta → voz masculina). Outras vozes só depois de ver os dados de retenção.
+- Mesma abertura, mesmo encerramento, mesma trilha e mesmo estilo de thumbnail.
+- A thumbnail de cada vídeo mostra o protagonista daquela história (não existe um rosto fixo do canal).
+
+### Nomes já usados
+_(atualizar a cada vídeo produzido)_
+- —
 
 ---
 
@@ -108,59 +110,59 @@ Nos primeiros 20–30 vídeos: rotação equilibrada (3–4 por tema). Depois, p
 ## 6. Banco de títulos (guardados para depois)
 
 ### 🤠 Cowboy Love Stories
-1. **Rose** — 🇧🇷 Aos 81 anos, ainda sonho com o cowboy que me esperou na estação de trem em 1959
+1. **Voz feminina** — 🇧🇷 Aos 81 anos, ainda sonho com o cowboy que me esperou na estação de trem em 1959
    🇺🇸 At 81, I Still Dream of the Cowboy Who Waited for Me at the Train Station in 1959
-2. **Margaret** — 🇧🇷 Meu pai me fez casar com o filho do banqueiro. O cowboy que eu amava esperou na estação por 3 dias
+2. **Voz feminina** — 🇧🇷 Meu pai me fez casar com o filho do banqueiro. O cowboy que eu amava esperou na estação por 3 dias
    🇺🇸 My Father Made Me Marry the Banker's Son. The Cowboy I Loved Waited at the Station for 3 Days
-3. **Walter** — 🇧🇷 Eu era só um peão. Ela era a filha do rancheiro. 60 anos depois, ela voltou ao nosso celeiro
+3. **Voz masculina** — 🇧🇷 Eu era só um peão. Ela era a filha do rancheiro. 60 anos depois, ela voltou ao nosso celeiro
    🇺🇸 I Was Just a Ranch Hand. She Was the Rancher's Daughter. 60 Years Later, She Came Back to Our Barn
 
 ### 🏛️ The Maid & The Heir
-4. **Rose** — 🇧🇷 Eu era a empregada da mansão. Ele era o herdeiro. 55 anos depois, o neto dele bateu na minha porta
+4. **Voz feminina** — 🇧🇷 Eu era a empregada da mansão. Ele era o herdeiro. 55 anos depois, o neto dele bateu na minha porta
    🇺🇸 I Was the Maid in Their Mansion. He Was the Heir. 55 Years Later, His Grandson Knocked on My Door
-5. **Margaret** — 🇧🇷 A mãe dele me demitiu por amar o filho dela. Aos 77, recebi um envelope com o nome dele
+5. **Voz feminina** — 🇧🇷 A mãe dele me demitiu por amar o filho dela. Aos 77, recebi um envelope com o nome dele
    🇺🇸 His Mother Fired Me for Loving Her Son. At 77, I Received an Envelope With His Name on It
-6. **Walter** — 🇧🇷 Eu era o rapaz rico que amava a empregada. Minha família a mandou embora — passei 50 anos procurando por ela
+6. **Voz masculina** — 🇧🇷 Eu era o rapaz rico que amava a empregada. Minha família a mandou embora — passei 50 anos procurando por ela
    🇺🇸 I Was the Rich Boy Who Loved the Maid. My Family Sent Her Away — I Spent 50 Years Looking for Her
 
 ### 🎖️ Love in Wartime
-7. **Rose** — 🇧🇷 Ele prometeu voltar da Coreia e se casar comigo. 60 anos depois, encontrei a última carta dele
+7. **Voz feminina** — 🇧🇷 Ele prometeu voltar da Coreia e se casar comigo. 60 anos depois, encontrei a última carta dele
    🇺🇸 He Promised to Come Home From Korea and Marry Me. 60 Years Later, I Found His Last Letter
-8. **Margaret** — 🇧🇷 Eu era uma jovem enfermeira em 1951. Ele era o soldado que me fez prometer não esquecê-lo
+8. **Voz feminina** — 🇧🇷 Eu era uma jovem enfermeira em 1951. Ele era o soldado que me fez prometer não esquecê-lo
    🇺🇸 I Was a Young Nurse in 1951. He Was the Soldier Who Made Me Promise Not to Forget Him
-9. **Walter** — 🇧🇷 Voltei da guerra para casar com ela — ela já usava o anel de outro homem
+9. **Voz masculina** — 🇧🇷 Voltei da guerra para casar com ela — ela já usava o anel de outro homem
    🇺🇸 I Came Home From the War to Marry Her — She Was Already Wearing Another Man's Ring
 
 ### 💔 Forbidden by Family
-10. **Margaret** — 🇧🇷 Meu pai me fez casar com o filho do banqueiro. O rapaz que eu amava nunca se casou
+10. **Voz feminina** — 🇧🇷 Meu pai me fez casar com o filho do banqueiro. O rapaz que eu amava nunca se casou
     🇺🇸 My Father Made Me Marry the Banker's Son. The Boy I Loved Never Married Anyone
-11. **Rose** — 🇧🇷 Nossas famílias se odiavam havia 30 anos. Nos apaixonamos mesmo assim — e pagamos o preço
+11. **Voz feminina** — 🇧🇷 Nossas famílias se odiavam havia 30 anos. Nos apaixonamos mesmo assim — e pagamos o preço
     🇺🇸 Our Families Hated Each Other for 30 Years. We Fell in Love Anyway — and Paid the Price
-12. **Walter** — 🇧🇷 O pai dela disse que eu não era bom o bastante. 50 anos depois, comprei a casa onde ela cresceu
+12. **Voz masculina** — 🇧🇷 O pai dela disse que eu não era bom o bastante. 50 anos depois, comprei a casa onde ela cresceu
     🇺🇸 Her Father Said I Wasn't Good Enough. 50 Years Later, I Bought the House She Grew Up In
 
 ### 💰 The Hidden Millionaire
-13. **Rose** — 🇧🇷 Ele era só o rapaz que consertava o caminhão do meu pai. Ninguém sabia que ele era dono de metade do condado
+13. **Voz feminina** — 🇧🇷 Ele era só o rapaz que consertava o caminhão do meu pai. Ninguém sabia que ele era dono de metade do condado
     🇺🇸 He Was Just the Boy Who Fixed My Father's Truck. Nobody Knew He Owned Half the County
-14. **Margaret** — 🇧🇷 Todos riram quando me casei com o fazendeiro pobre. No funeral dele, o advogado leu o testamento
+14. **Voz feminina** — 🇧🇷 Todos riram quando me casei com o fazendeiro pobre. No funeral dele, o advogado leu o testamento
     🇺🇸 Everyone Laughed When I Married the Poor Farmer. At His Funeral, the Lawyer Read the Will
-15. **Walter** — 🇧🇷 Ela me trocou por um homem rico em 1963. Nunca soube que eu era herdeiro de uma fortuna do petróleo
+15. **Voz masculina** — 🇧🇷 Ela me trocou por um homem rico em 1963. Nunca soube que eu era herdeiro de uma fortuna do petróleo
     🇺🇸 She Left Me for a Rich Man in 1963. She Never Knew I Was the Heir to an Oil Fortune
 
 ### 🌅 Second Chance at Love
-16. **Rose** — 🇧🇷 Aos 74, vi meu primeiro amor no funeral do meu marido — ele nunca parou de esperar
+16. **Voz feminina** — 🇧🇷 Aos 74, vi meu primeiro amor no funeral do meu marido — ele nunca parou de esperar
     🇺🇸 At 74, I Saw My First Love at My Husband's Funeral — He Had Never Stopped Waiting
-17. **Margaret** — 🇧🇷 Aos 82, finalmente abri a carta que ele me escreveu em 1958 — eu devia ter ido com ele
+17. **Voz feminina** — 🇧🇷 Aos 82, finalmente abri a carta que ele me escreveu em 1958 — eu devia ter ido com ele
     🇺🇸 At 82, I Finally Opened the Letter He Wrote Me in 1958 — I Should Have Gone With Him
-18. **Walter** — 🇧🇷 Aos 79, minha neta achou uma foto na minha carteira: "Vovô… quem é essa mulher?"
+18. **Voz masculina** — 🇧🇷 Aos 79, minha neta achou uma foto na minha carteira: "Vovô… quem é essa mulher?"
     🇺🇸 At 79, My Granddaughter Found a Photo in My Wallet. "Grandpa… Who Is This Woman?"
 
 ### 🌻 Summer Love, Lost Forever
-19. **Rose** — 🇧🇷 Um verão em 1962 mudou minha vida. Nunca mais o vi — até a semana passada
+19. **Voz feminina** — 🇧🇷 Um verão em 1962 mudou minha vida. Nunca mais o vi — até a semana passada
     🇺🇸 One Summer in 1962 Changed My Life. I Never Saw Him Again — Until Last Week
-20. **Margaret** — 🇧🇷 Todo verão ele me esperava no lago. No ano em que não fui, ele me deixou um bilhete
+20. **Voz feminina** — 🇧🇷 Todo verão ele me esperava no lago. No ano em que não fui, ele me deixou um bilhete
     🇺🇸 Every Summer He Waited at the Lake for Me. The Year I Didn't Come, He Left Me a Note
-21. **Walter** — 🇧🇷 Eu tinha 17, ela era a moça da cidade grande. 60 verões depois, ela voltou à nossa cidadezinha
+21. **Voz masculina** — 🇧🇷 Eu tinha 17, ela era a moça da cidade grande. 60 verões depois, ela voltou à nossa cidadezinha
     🇺🇸 I Was 17, She Was the Girl From the City. 60 Summers Later, She Returned to Our Little Town
 
 ---
