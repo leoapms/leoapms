@@ -27,6 +27,17 @@
 6. **Conteúdo limpo** — romance e emoção, nada explícito (protege a monetização).
 7. **Ficção** — nunca usar pessoas reais como se fosse história verdadeira.
 
+### Regras de IA e ficção (atenção constante)
+O canal é 100% feito com IA (imagens e áudio) e as histórias são pura ficção.
+- **Nunca** dizer ou insinuar que a história é real: nada de "true story", "real story", "based on true events", "this really happened" em títulos, thumbnails, descrições ou roteiros.
+- **Nunca** apresentar imagens de IA como fotos reais (nada de "real photo", "actual picture", "found photo").
+- O narrador fala em primeira pessoa como personagem, o que é normal na ficção; só não se afirma que ela existe ou que os fatos aconteceram.
+- Não é preciso escrever "ficção" em todo lugar do canal (decisão do dono do canal), mas evitar qualquer frase que engane.
+- **No upload:** quando as imagens forem realistas, marcar no YouTube Studio a opção de conteúdo alterado/sintético ("Altered or synthetic content"). É exigência da política do YouTube e não afeta a monetização.
+
+### Prompts de imagem
+Prompts para gerar imagens (logo, banner, thumbnails, cenas) vêm **direto em inglês**, sem a versão em português.
+
 ### Estrutura padrão do roteiro
 1. **Gancho no presente (0–2 min):** evento atual que dispara a memória (funeral, carta, neto, reencontro).
 2. **Flashback da juventude (~60%):** a história de amor com o enredo do episódio.
