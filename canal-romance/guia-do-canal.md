@@ -165,14 +165,13 @@ Nos primeiros 20–30 vídeos: rotação equilibrada (3–4 por tema). Depois, p
 
 ---
 
-## 7. Identidade do canal (proposta — em definição)
+## 7. Identidade do canal
 
-### Nomes (checados no YouTube em 09/11/2026)
-| Nome | Situação |
-|---|---|
-| **Sweet Tea & Old Letters** (recomendado) | Nenhum canal com esse nome encontrado |
-| **The Loves We Didn't Keep** | Nenhum canal com esse nome encontrado |
-| Porchlight Love Stories / Faded Letters / Love Left Behind / Hope Chest Love Stories / Rocking Chair Tales | ❌ Já existem — evitar |
+### Nome — ✅ DEFINIDO
+**Sweet Tea & Old Letters**
+- Handle: **@SweetTeaAndOldLetters** (reserva: @SweetTeaOldLetters). Ambos apareciam livres em 09/11/2026; confirmar com o ✓ verde na criação.
+- Criar e-mail e redes (Instagram, TikTok, Facebook) com o mesmo nome.
+- Nomes descartados por já existirem: Porchlight Love Stories, Faded Letters, Love Left Behind, Hope Chest Love Stories, Rocking Chair Tales, Letters From the Porch, The Heart Remembers, Once Upon Us.
 
 ### Slogan
 - 🇧🇷 Histórias de amor que o tempo não apagou.
