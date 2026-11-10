@@ -206,6 +206,14 @@ Envelope antigo com selo de cera em formato de coração + raminho de rosa, em s
 - Arquivo: https://d8j0ntlcm91z4.cloudfront.net/user_3JQCUjzYuU2cipeDySVvAQsF7zz/hf_20261109_104629_c1d98cab-8ad9-4575-b538-dcbb42243510.png
 - Prompt base (rascunho aprovado): *Elegant circular channel icon emblem: a vintage cream envelope sealed with a heart-shaped dusty-rose red wax seal, a small sprig of dusty pink roses and a faded gold ribbon tucked behind it, warm sepia and faded gold tones on an aged cream paper background, soft nostalgic golden-hour lighting, minimalist, centered composition with generous margin so it reads well when cropped to a circle, painterly vintage illustration style, high detail, no text, no letters*
 
+### Banner — ✅ APROVADO (10/11/2026)
+Varanda ao entardecer, cadeira de balanço, chá gelado, cartas com fita vermelha e rosas vermelhas; faixa central livre para nome e slogan.
+- Versão final 4K (Higgsfield, GPT Image 2.6): job `e102f8ae-0482-456a-ba7d-7f5df59e6140`
+- Arquivo: https://d8j0ntlcm91z4.cloudfront.net/user_3JQCUjzYuU2cipeDySVvAQsF7zz/hf_20261110_125908_e102f8ae-0482-456a-ba7d-7f5df59e6140.png
+- Rascunho escolhido (B): job `4cda11a6-430a-41b9-996c-35df45005820`
+- Prompt base: *Wide YouTube channel banner artwork: a warm Southern front porch at golden-hour sunset, an empty wooden rocking chair, a glass of iced sweet tea with lemon on a small side table, a bundle of old love letters tied with a faded red ribbon, a few vivid crimson roses in a mason jar, soft warm sepia and faded gold tones with cream highlights, nostalgic painterly vintage illustration style matching a cream envelope and red wax seal logo. Keep the central horizontal band calm and uncluttered (soft blurred background there) so a channel name can be added later; place the detailed objects toward the left and right sides. No text, no letters, no people.*
+- Montagem no Canva: tamanho 2560×1440; "Sweet Tea & Old Letters" em Playfair Display (sépia `#6B4F3A` ou creme com sombra suave) e o slogan "Love stories time couldn't erase." em Dancing Script, ambos dentro da área segura central de 1546×423.
+
 ### Thumbnail padrão
 - Esquerda: rosto do narrador idoso em close (emoção: saudade/lágrima contida).
 - Direita: casal jovem da época em tom sépia (o "passado").
