@@ -233,3 +233,71 @@ Piano suave ou violão acústico, volume baixo, sem letra. Mesma trilha de abert
 4. Ideia de thumbnail (texto + descrição da imagem)
 5. Descrição do vídeo com capítulos/timestamps + tags
 6. Playlist do vídeo
+
+---
+
+## 9. Kit de montagem do canal (textos prontos para colar)
+
+### Nome, handle e textos principais
+- **Nome:** Sweet Tea & Old Letters
+- **Handle:** @SweetTeaAndOldLetters (reserva: @SweetTeaOldLetters)
+- **Slogan (banner):** Love stories time couldn't erase.
+
+**Descrição do canal**
+🇧🇷 Puxe uma cadeira, sirva um chá e fique um pouco. Aqui, avôs e avós contam o grande amor da juventude: o cowboy que esperou na estação, a empregada que amou o herdeiro, o soldado que prometeu voltar. Amores que a vida separou, mas o coração nunca esqueceu. Novas histórias toda semana, para ouvir com calma ou para adormecer.
+
+🇺🇸 (colar no YouTube)
+Pull up a chair, pour yourself some sweet tea, and stay a while.
+
+Here, grandmothers and grandfathers share the great love of their youth: the cowboy who waited at the train station, the maid who loved the heir, the soldier who promised to come home. Loves that life kept apart, but the heart never forgot.
+
+🌹 Long, heartfelt love stories from another time
+☕ Perfect to listen slowly, while you relax, or to fall asleep to
+💌 New stories every week
+
+Subscribe and pull up a chair. There's always one more letter to open.
+
+**Palavras-chave do canal** (YouTube Studio → Personalização/Configurações → Canal → Palavras-chave)
+love stories, romance stories, old love stories, second chance love, lost love story, first love, historical romance, romance audiobook, love story audiobook, cowboy romance, western romance, maid and heir, wartime love story, forbidden love, emotional stories, stories for seniors, bedtime stories for adults, sleep stories, nostalgic stories, sweet romance
+
+### Configurações recomendadas
+| Item | Valor |
+|---|---|
+| País de residência | o seu país real (impostos/AdSense) |
+| Idioma do canal | Inglês (Estados Unidos) |
+| Público | **Não é conteúdo para crianças** |
+| Categoria padrão dos uploads | Pessoas e blogs (People & Blogs) ou Entretenimento |
+| Idioma padrão dos vídeos/títulos | Inglês |
+| Licença | Licença padrão do YouTube |
+| Comentários | Ativados, com moderação de comentários potencialmente inadequados |
+| Marca d'água | Ícone (150×150), "fim do vídeo" ou "posição personalizada" |
+| Conteúdo alterado (IA) | já feito pelo dono do canal no upload |
+
+### Playlists (nome + descrição em inglês para colar)
+1. **Cowboy Love Stories | Old Western Romance** — Rancher's daughters, ranch hands and the loves that waited on dusty roads. Western romance stories from the 1950s to the 1970s, told by those who lived them.
+2. **The Maid & The Heir | Love Across Social Class** — She cleaned the mansion. He was born to inherit it. Love stories that crossed every line their families drew.
+3. **Love in Wartime | Soldiers, Nurses & Letters** — Promises made before the train left, letters that came too late, and hearts that waited for years. Romance stories from wartime.
+4. **Forbidden by Family | Arranged Marriages & Lost Love** — Fathers who said no, families who forbade it, marriages chosen by others. The loves that were never allowed to be.
+5. **The Hidden Millionaire | Love Before the Truth** — He was just the boy who fixed trucks. Nobody knew who he really was. Romance stories with a secret worth waiting for.
+6. **Second Chance at Love | Reunited After Decades** — Funerals, old letters, a photo in a wallet. Late-in-life love stories about finding your first love again.
+7. **Summer Love, Lost Forever | Small-Town Romance** — One summer, one lake, one love that never came back. Nostalgic small-town romance stories.
+
+Especiais:
+- **⭐ Start Here | Most Loved Stories** — The stories our listeners loved the most. The perfect place to begin.
+- **🌙 Stories to Fall Asleep To | Calm Love Stories** — Long, gentle love stories to listen to in the dark and drift off to sleep.
+- **📖 Full Stories 2+ Hours | Long Romance Audiobooks** — Our longest love stories, for a whole evening of listening.
+
+### Checklist da montagem (ordem sugerida)
+1. Criar a conta Google/e-mail do canal (ex.: sweetteaandoldletters@…).
+2. Criar o canal no YouTube com o nome **Sweet Tea & Old Letters** e o handle **@SweetTeaAndOldLetters** (conferir o ✓ verde).
+3. Enviar o **ícone** (versão vermelha A, ajustada para 800×800).
+4. Enviar o **banner** (2560×1440, nome e slogan dentro da área segura central de 1546×423).
+5. Colar a **descrição** e adicionar o e-mail de contato.
+6. Adicionar as **palavras-chave** do canal.
+7. Ajustar **país, idioma e público** (não é para crianças).
+8. Definir os **padrões de upload** (categoria, idioma, licença, comentários).
+9. Ativar os **recursos intermediários/avançados** (verificação por telefone): libera thumbnails personalizadas e vídeos com mais de 15 min.
+10. Criar as **10 playlists** com nome e descrição (podem ficar vazias até o primeiro vídeo).
+11. Enviar a **marca d'água** (opcional).
+12. Reservar o mesmo nome no **Instagram, TikTok e Facebook**.
+13. Depois do primeiro vídeo: montar a **página inicial** (vídeo em destaque + seções de playlists).
